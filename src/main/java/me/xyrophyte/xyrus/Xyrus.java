@@ -25,10 +25,6 @@ public final class Xyrus extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new DeopOnLeave(), this);
         getLogger().info(ChatColor.BLUE + "Registered all events.");
 
-        // Registering commands
-        getLogger().info(ChatColor.BLUE + "Registering commands.");
-        getLogger().info(ChatColor.BLUE + "Registered all commands.");
-
         getLogger().info(ChatColor.AQUA + "Plugin started successfully");
 
     }
