@@ -1,0 +1,5 @@
+# All the plugin's configurations are controlled through here, no in game configuration.
+
+# Decided weather to deop opped players on leave or not.
+# Default: true
+DeopOnLeave: true
