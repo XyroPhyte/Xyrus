@@ -1,0 +1,6 @@
+name: Xyrus
+version: '${project.version}'
+main: me.xyrophyte.xyrus.Xyrus
+api-version: 1.17
+authors: [ XyroPhyte ]
+description: Basic Anti Illegal Plugin
