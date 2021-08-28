@@ -3,3 +3,8 @@
 # Decided weather to deop opped players on leave or not.
 # Default: true
 DeopOnLeave: true
+
+# Anti Illegal configuration.
+# BlockPLace determines if someone can place illegal blocks.
+Anti-Ilegal:
+  BlockPlace: false
