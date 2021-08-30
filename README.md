@@ -1,7 +1,7 @@
 # Xyrus
 This plugin is my largest disaster so far, I wanted to make an Anti Illegal plugin but soon realised how hard
 and complex it is, so I just decided to scrap it. Currently, this plugin has only one functionality, that is
-deopping players on leave. This may be useful in cracked (offline) servers as another user may log into an admin's account
+deopping players on leave. This may be useful in cracked (offline) servers as another user may log into an admin's account.
 I may in the future come back to this, but not anytime soon.
 
 ## Compatibility
